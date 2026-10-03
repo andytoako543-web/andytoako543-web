@@ -21,7 +21,6 @@ Echague, Isabela, Philippines
 <br><br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-06121F?style=flat-square\&logo=github\&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&label=PROFILE%20VIEWS\&color=0077A3\&style=flat-square)](https://github.com/YOUR_GITHUB_USERNAME)
 
 <br><br>
 
