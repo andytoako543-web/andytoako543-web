@@ -9,7 +9,7 @@
 ### Bachelor of Science in Information Systems
 
 **Isabela State University — Main Campus**
-**College of Computing Studies**
+**College of Computing Studies Information Communication and Technology**
 Echague, Isabela, Philippines
 
 <br>
