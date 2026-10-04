@@ -90,6 +90,12 @@ Through academic projects and hands-on work, I continue to develop my understand
 <img src="https://img.shields.io/badge/JavaScript-06121F?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/PHP-06121F?style=for-the-badge&logo=php&logoColor=777BB4"/>
 <img src="https://img.shields.io/badge/SQL-06121F?style=for-the-badge&logo=mysql&logoColor=00B4D8"/>
+  <img src="https://img.shields.io/badge/React-06121F?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vue-06121F?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06121F?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
+<img src="https://img.shields.io/badge/Bootstrap-06121F?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
+<img src="https://img.shields.io/badge/MongoDB-06121F?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/Supabase-06121F?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
 </p>
 
 ## Quality Assurance
